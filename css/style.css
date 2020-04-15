@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     min-height: 100vh;
     font-family: "Arimo", sans-serif;
+    background-attachment: fixed;
 }
 
 .jumbotron {
