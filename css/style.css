@@ -1,0 +1,35 @@
+body {
+    background-image: url("../icon/thrall.png");
+    /*background-image: linear-gradient(90deg, #4b6cb7 50%, #182848 80%);*/
+    background-size: cover, cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: "Arimo", sans-serif;
+}
+
+.jumbotron {
+    background-color: rgba(216, 214, 218, 0.9);
+}
+
+.navbar {
+    background-color: rgba(216, 214, 218, 1);
+}
+
+img.brand-image {
+    width: 25px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.anke {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    white-space: nowrap;
+    color: #777;
+}
